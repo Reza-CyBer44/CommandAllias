@@ -7,4 +7,4 @@ Install it like A Normal Script then Change the Config file to your needings.
 
 
 ____
-# Cyber Developments : https://discord.gg/BsbuFB8Bss
+# Cyber Developments : https://discord.gg/6d5Q5RMWt7
